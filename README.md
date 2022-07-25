@@ -4,7 +4,7 @@
         #DESCRIPTION
 My project is an online pharmacy which will be used to search for available medicine from a store. 
 
-        **DEPENDENCIES**
+        #DEPENDENCIES
 The prerequisites used for my language will be:
     *HTML: Skeleton of the webpage
     *CSS:Used to style my application
