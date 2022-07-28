@@ -13,6 +13,9 @@ The prerequisites used for my language will be:<br>
 The open source library ecosysystem used will be:<br>
     *React.js to design and implement user interface components for JavaScript-based web and mobile applications and also based on my application.
 
+####  SETUP PROCESS
+You can git clone my ssh key from my repository (git@github.com:Kemunto-wendy/ONLINE-PHARMACY-APPLICATION.git) to access it
+
 ####  GITHUB LINK
 https://github.com/Kemunto-wendy/ONLINE-PHARMACY-APPLICATION.git
 
