@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './components/Header/header';
+import Search from './components/Searchbar/search';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   <div>
 
 <Header />
+<Search />
   </div>
   );
 }
