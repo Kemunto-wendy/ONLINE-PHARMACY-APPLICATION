@@ -5,10 +5,10 @@ My project is an online pharmacy which will be used to search for available medi
 This project was bootstrapped with Create React App.
 ### DEPENDENCIES
 The prerequisites used for my language will be:<br>
-    *HTML: Skeleton of the webpage.<br>
-    *CSS:Used to style my application.<br>
-    *JAVASCRIPT: Client side scripting.<br>
-    *BOOTSTRAP: CSS Framework for developing responsive and mobile-first websites.<br>
+    1. HTML: Skeleton of the webpage.<br>
+    2. CSS:Used to style my application.<br>
+    3. JAVASCRIPT: Client side scripting.<br>
+    4. BOOTSTRAP: CSS Framework for developing responsive and mobile-first websites.<br>
 
 The open source library ecosysystem used will be:<br>
     *React.js to design and implement user interface components for JavaScript-based web and mobile applications and also based on my application.
@@ -19,8 +19,8 @@ https://github.com/Kemunto-wendy/ONLINE-PHARMACY-APPLICATION.git
 #####  AUTHORS
 JOY KEMUNTO
 
-###### LICENSE
- This project is licensed under Joy Kemunto's License - see the LICENSE.md file for details       
+###### EMAIL
+You can reach me out through my email joykemunto333@gmail.com.      
         
  
 
