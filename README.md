@@ -1,7 +1,8 @@
 # PROJECT TITLE
 ONLINE-PHARMACY-APPLICATION
-## DESCRIPTION
+## PROJECT DESCRIPTION
 My project is an online pharmacy which will be used to search for available medicine from a store. 
+This project was bootstrapped with Create React App.
 ### DEPENDENCIES
 The prerequisites used for my language will be:<br>
     *HTML: Skeleton of the webpage.<br>
